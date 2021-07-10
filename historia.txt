@@ -1,0 +1,3 @@
+primer ejercicio para aprender Git
+
+segundo ejercicio de git
