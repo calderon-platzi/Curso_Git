@@ -1,0 +1,2 @@
+voy a realizar un nuevo aprendizaje
+consiste en aprender a usar git status -s
