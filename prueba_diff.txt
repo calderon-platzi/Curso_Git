@@ -1,2 +1,6 @@
 cambio que va a ir al staging area
 
+ahora este cambio va para el staging area, pero ya existe un commit
+
+este cambio si va a quedar en el working directory
+
