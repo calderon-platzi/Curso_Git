@@ -9,7 +9,7 @@ def generate_password():
 
     password = []
 
-    for i in range(15):
+    for i in range(10):
         password.append(random.choice(character))
     
-    return ''.join(password) #convertir a string
+    return ''.join(password) #convertir a string #conflicto2
