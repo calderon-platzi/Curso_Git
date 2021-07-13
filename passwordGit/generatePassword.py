@@ -12,4 +12,4 @@ def generate_password():
     for i in range(15):
         password.append(random.choice(character))
     
-    return ''.join(password) #convertir a string
+    return ''.join(password) #convertir a string #conflicto1
