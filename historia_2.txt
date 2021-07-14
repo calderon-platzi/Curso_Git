@@ -7,3 +7,5 @@ este cambio se va a guardar pero no se va a preparar.
 pequeño cambio realizado desde github
 
 otro desde el pc
+
+ahora mi conxion con github es con ssh
