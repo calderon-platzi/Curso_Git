@@ -5,3 +5,5 @@ ahora voy a aprender a usar git diff.
 este cambio se va a guardar pero no se va a preparar.
 
 pequeño cambio realizado desde github
+
+otro desde el pc
