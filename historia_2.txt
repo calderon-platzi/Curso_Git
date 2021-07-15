@@ -9,3 +9,6 @@ pequeño cambio realizado desde github
 otro desde el pc
 
 ahora mi conxion con github es con ssh
+
+primer cambio realizado por Platzi Calderon a la rama footer
+
